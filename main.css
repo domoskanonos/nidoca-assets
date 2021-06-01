@@ -1,14 +1,5 @@
-@import url('https://fonts.googleapis.com/css2?family=Fira+Sans&display=swap');
-
-@font-face {
-  font-family: 'Material Icons';
-  font-style: normal;
-  font-weight: 400;
-  src: url(https://fonts.gstatic.com/s/materialicons/v48/flUhRq6tzZclQEJ-Vdg-IuiaDsNc.woff2) format('woff2');
-}
-
 :root {
-
+  
   --space-little: 0.5vmin;
   --space-small: 1vmin;
   --space-medium: 1.5vmin;
@@ -16,7 +7,6 @@
   --space-big: 2vmin;
   --space-max: 3vmin;
 
-  --font-family: 'Sigmar One', cursive;
   --letter-spacing: 1pt;
   --font-size: 1rem;
 
@@ -68,7 +58,6 @@
   word-wrap: break-word;
   box-sizing: border-box;
   text-rendering: optimizelegibility;
-  font-family: var(--font-family);
   font-size: var(--font-size);
   letter-spacing: var(--letter-spacing);
   text-decoration: none;
