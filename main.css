@@ -24,12 +24,12 @@
             --app-color: #696868;
             --app-color-background: #ffffff;
 
-            --mdc-theme-on-primary: #ffffff;
-            --mdc-theme-primary: #325278;
-            --mdc-theme-on-primary-light: #4775a7;
-            --mdc-theme-primary-light: #3f6796;
-            --mdc-theme-on-primary-dark: #4775a7;
-            --mdc-theme-primary-dark: #253d59;
+            --app-color-on-primary: #ffffff;
+            --app-color-primary: #325278;
+            --app-color-on-primary-light: #4775a7;
+            --app-color-primary-light: #3f6796;
+            --app-color-on-primary-dark: #4775a7;
+            --app-color-primary-dark: #253d59;
 
             --app-color-secondary: #ffffff;
             --app-color-secondary-background: #dd6f00;
